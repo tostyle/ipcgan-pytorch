@@ -1,0 +1,8 @@
+*.pth
+*.jpg
+*.png
+*.pyc
+__pycache__
+.idea
+!readmeDisplay/1.png
+data/
